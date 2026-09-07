@@ -98,7 +98,7 @@ HOUSE-PRICE-PREDICTION/
 6. **Open your browser**
    Navigate to: `http://localhost:5000`
 
-## 🎯 Usage
+
 
 ### Making Predictions
 
