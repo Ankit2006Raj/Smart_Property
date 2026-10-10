@@ -50,7 +50,7 @@ HOUSE-PRICE-PREDICTION/
     ├── index.html                 # Homepage
     ├── predict.html               # Prediction page
     ├── analytics.html             # Analytics dashboard
-    └── about.html                 # About page
+    └── about.html                 # About pages
 ```
 
 ## 🚀 Quick Start
